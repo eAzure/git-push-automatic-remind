@@ -1,0 +1,2 @@
+#! /bin/sh
+python3 /home/test/Desktop/GitTestRepo/sample.git/hooks/post-receive.py
